@@ -56,6 +56,5 @@ def for_iterator(number_of_times)
     for number in number_of_times do
       puts phrase
     end
-  end
-
 end
+
